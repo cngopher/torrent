@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/anacrolix/missinggo/expect"
-	"github.com/anacrolix/torrent/bencode"
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/cngopher/torrent/bencode"
+	"github.com/cngopher/torrent/metainfo"
 )
 
 type File struct {

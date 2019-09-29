@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/cngopher/torrent/metainfo"
 	"github.com/stretchr/testify/require"
 )
 

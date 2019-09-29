@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 
 	"github.com/anacrolix/missinggo"
-	"github.com/anacrolix/torrent/metainfo"
-	"github.com/anacrolix/torrent/mmap_span"
+	"github.com/cngopher/torrent/metainfo"
+	"github.com/cngopher/torrent/mmap_span"
 	"github.com/edsrzf/mmap-go"
 )
 

@@ -9,8 +9,8 @@ import (
 
 	"bazil.org/fuse"
 	fusefs "bazil.org/fuse/fs"
-	"github.com/anacrolix/torrent"
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/cngopher/torrent"
+	"github.com/cngopher/torrent/metainfo"
 )
 
 const (

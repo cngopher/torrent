@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/anacrolix/torrent/internal/testutil"
+	"github.com/cngopher/torrent/internal/testutil"
 	"github.com/stretchr/testify/require"
 )
 

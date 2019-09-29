@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/anacrolix/tagflag"
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/cngopher/torrent/metainfo"
 )
 
 func main() {

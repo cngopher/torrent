@@ -19,9 +19,9 @@ import (
 	"github.com/anacrolix/missinggo/bitmap"
 	"github.com/anacrolix/missinggo/iter"
 	"github.com/anacrolix/missinggo/prioritybitmap"
-	"github.com/anacrolix/torrent/bencode"
-	"github.com/anacrolix/torrent/mse"
-	pp "github.com/anacrolix/torrent/peer_protocol"
+	"github.com/cngopher/torrent/bencode"
+	"github.com/cngopher/torrent/mse"
+	pp "github.com/cngopher/torrent/peer_protocol"
 	"github.com/pkg/errors"
 )
 

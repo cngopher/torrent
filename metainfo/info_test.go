@@ -3,7 +3,7 @@ package metainfo
 import (
 	"testing"
 
-	"github.com/anacrolix/torrent/bencode"
+	"github.com/cngopher/torrent/bencode"
 	"github.com/stretchr/testify/assert"
 )
 

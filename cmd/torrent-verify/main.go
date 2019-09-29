@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 
 	"github.com/anacrolix/tagflag"
-	"github.com/anacrolix/torrent/metainfo"
-	"github.com/anacrolix/torrent/mmap_span"
+	"github.com/cngopher/torrent/metainfo"
+	"github.com/cngopher/torrent/mmap_span"
 	"github.com/bradfitz/iter"
 	"github.com/edsrzf/mmap-go"
 )

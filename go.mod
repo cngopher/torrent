@@ -12,10 +12,10 @@ require (
 	github.com/anacrolix/mmsg v0.0.0-20180808012353-5adb2c1127c0 // indirect
 	github.com/anacrolix/sync v0.0.0-20180808010631-44578de4e778
 	github.com/anacrolix/tagflag v0.0.0-20180803105420-3a8ff5428f76
-	github.com/anacrolix/torrent v1.0.1
 	github.com/anacrolix/utp v0.0.0-20180219060659-9e0e1d1d0572
 	github.com/boltdb/bolt v1.3.1
 	github.com/bradfitz/iter v0.0.0-20190303215204-33e6a9893b0c
+	github.com/cngopher/torrent v1.0.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dustin/go-humanize v1.0.0
 	github.com/edsrzf/mmap-go v1.0.0
@@ -36,3 +36,5 @@ require (
 )
 
 go 1.13
+
+replace github.com/anacrolix/torrent v1.7.1 => github.com/cngopher/torrent v1.1.4

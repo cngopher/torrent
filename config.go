@@ -11,8 +11,8 @@ import (
 	"github.com/anacrolix/missinggo"
 	"github.com/anacrolix/missinggo/conntrack"
 	"github.com/anacrolix/missinggo/expect"
-	"github.com/anacrolix/torrent/iplist"
-	"github.com/anacrolix/torrent/storage"
+	"github.com/cngopher/torrent/iplist"
+	"github.com/cngopher/torrent/storage"
 	"golang.org/x/time/rate"
 )
 

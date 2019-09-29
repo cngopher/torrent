@@ -15,8 +15,8 @@ import (
 	"time"
 
 	_ "github.com/anacrolix/envpprof"
-	"github.com/anacrolix/torrent"
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/cngopher/torrent"
+	"github.com/cngopher/torrent/metainfo"
 	"github.com/dustin/go-humanize"
 	"github.com/jessevdk/go-flags"
 )
